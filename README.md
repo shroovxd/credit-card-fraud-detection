@@ -1,2 +1,2 @@
 # credit-card-fraud-detection
-an overview of credit card fraud detection project - 
+credit card fraud detection project - using logistic regression
